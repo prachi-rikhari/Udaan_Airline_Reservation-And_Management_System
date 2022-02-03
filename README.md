@@ -2,7 +2,7 @@
 About the Project
 Udaan-Airline Reservation and Management System is my academic group project, which I have done in my first year of undergraduation. This project mainly includes following things-
 
-**Language Used - ****Java Core**
+**Language Used -** ****Java Core**
 
 **Concept Used -** **Swing**
 
